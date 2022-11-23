@@ -94,7 +94,7 @@ DATABASES = {
 
         'PASSWORD': "4xXrmxZETQovJ0Yvxdh6hvRaKpkUf4M8",
 
-        'HOST':'dpg-cduv84da49967v6ra5gg-a',
+        'HOST':'postgres://eyal:4xXrmxZETQovJ0Yvxdh6hvRaKpkUf4M8@dpg-cduv84da49967v6ra5gg-a/demodb_mm1w',
 
         'PORT': "5432"
 
