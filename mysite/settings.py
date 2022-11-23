@@ -88,13 +88,13 @@ DATABASES = {
 
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
 
-        'NAME': 'postg_67la',
+        'NAME': 'demo',
 
-        'USER': 'postg_67la_user',
+        'USER': 'eyal',
 
-        'PASSWORD': "V6jnPbQNUq0MwuOitWTWvRpApOeN65bY",
+        'PASSWORD': "4xXrmxZETQovJ0Yvxdh6hvRaKpkUf4M8",
 
-        'HOST':'dpg-cdui38qen0htfii2laq0-a.oregon-postgres.render.com',
+        'HOST':'dpg-cduv84da49967v6ra5gg-a',
 
         'PORT': "5432"
 
