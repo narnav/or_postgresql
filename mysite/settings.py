@@ -88,11 +88,13 @@ DATABASES = {
 
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
 
+# name = databaseenv
         'NAME': 'demodb_mm1w',
 
         'USER': 'eyal',
 
         'PASSWORD': "4xXrmxZETQovJ0Yvxdh6hvRaKpkUf4M8",
+    # hostname +location
 
         'HOST':'dpg-cduv84da49967v6ra5gg-a.oregon-postgres.render.com',
 
